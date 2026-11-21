@@ -1,0 +1,10 @@
+{
+  "name": "Aceify",
+  "short_name": "Aceify",
+  "description": "Grades, GPA and agenda for Frisco ISD students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9f3ec",
+  "theme_color": "#0f766e",
+  "icons": [{ "src": "/static/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
